@@ -1,4 +1,6 @@
 🎮 Game Design Document (GDD) - Dungeon Fighter
+
+
 📌 Visão Geral do Jogo
 •	Descrição Temática: Dungeon Fighter é um RPG de plataforma 2D ambientado em um mundo sombrio e cheio de perigos. O jogador assume o papel de Lyra, uma guerreira destemida que precisa atravessar masmorras traiçoeiras, derrotar inimigos cruéis e evitar armadilhas mortais para cumprir sua missão.
 •	Objetivo Geral: O jogador deve guiar Lyra através de três fases repletas de desafios, derrotando inimigos e superando obstáculos para alcançar o final de cada fase.
